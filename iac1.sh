@@ -50,6 +50,6 @@ chown root:GRP_SEC /sec
 chmod 777 /publico
 chmod 770 /adm
 chmod 770 /ven
-chmod 777 /sec
+chmod 770 /sec
 
 echo "Finalizado..."
